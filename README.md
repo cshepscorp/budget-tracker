@@ -2,7 +2,6 @@
 
   ## Table of Contents
   * [ Description ](#about)
-  * [ Installation ](#installation)
   * [ Usage ](#usage)
   * [ Technologies ](#tech)
   * [ License ](#license)
@@ -10,22 +9,14 @@
 
   <a name="about"></a>
   ## Description
-  API end routes set up for a social network that allows a user to create an account, add and remove thoughts and reactions to thoughts.
-  ![Image of the api routes being tested in Insomnia](assets/images/social-api-screenshot.jpg)
-
-  <a name="installation"></a>
-  ## Installation
-  run `git clone https://github.com/cshepscorp/nosql-social` to clone onto your machine\
-  run `npm i` to install the appropriate packages for this application\
-  `npm start` to run your server\
-  You will need to have access to MongoDB on your machine.\
-  Instructions for installing MongoDB can be found here: (https://docs.mongodb.com/manual/installation/)
+  ![Screenshot of the budget tracker application](public/images/budget-tracker-screenshot.jpg) 
+  This is a budget tracking app. For this project, we were given the starter code for the functioning application and asked to add a service worker that will allow the user to interact with the app even with little or no internet connectivity. This app is also a Progressive Web Application (aka HTML-app or Web-app). This means that a user can install the app onto their desktop or mobile device for quick, offline access. In Google Chrome, click on the arrow/add button in the URL bar to download onto your desktop.
+  ![How to download the app onto your desktop](public/images/budget-tracker-pwa.jpg) 
+  
 
   <a name="usage"></a>
   ## Usage
-  Walkthrough Videos:\
-  How to Start the server, adding and editing Users, adding and removing Friends and Thoughts. (https://watch.screencastify.com/v/qCjWnm6q5aXH73Jl4nhy) \
-  How to Add Thoughts and Reactions and delete thoughts when a user is deleted. (https://watch.screencastify.com/v/EwUGRHho6VrCtnWSzFIW)
+  To use, simply enter a name for the transaction, enter an amount, and then tell the app if you're adding or subtracting funds.
 
   <a name="tech"></a>
   ## Technologies
@@ -33,7 +24,8 @@
   Node.js\
   Express.js\
   MongoDB\
-  Mongoose
+  Mongoose\
+  Service Workers
 
   <a name="license"></a>
   ## License
