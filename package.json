@@ -13,8 +13,7 @@
     "url": "git+https://github.com/cshepscorp/budget-tracker.git"
   },
   "author": "",
-  "license": "ISC"
-  },
+  "license": "ISC",
   "homepage": "https://github.com/cshepscorp/budget-tracker#readme",
   "dependencies": {
     "compression": "^1.7.4",
