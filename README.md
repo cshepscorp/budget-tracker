@@ -10,8 +10,9 @@
   <a name="about"></a>
   ## Description
   [Link to deployed app](https://pacific-inlet-60509.herokuapp.com/)
-  ![Screenshot of the budget tracker application](public/images/budget-tracker-screenshot.jpg) 
+ 
   This is a budget tracking app. For this project, we were given the starter code for the functioning application and asked to add a service worker that will allow the user to interact with the app even with little or no internet connectivity. This app is also a Progressive Web Application (aka HTML-app or Web-app). This means that a user can install the app onto their desktop or mobile device for quick, offline access. In Google Chrome, click on the arrow/add button in the URL bar to download onto your desktop.
+  
   ![How to download the app onto your desktop](public/images/budget-tracker-pwa.jpg) 
   
 
